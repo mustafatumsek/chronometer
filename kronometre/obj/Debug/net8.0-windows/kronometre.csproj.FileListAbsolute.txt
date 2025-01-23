@@ -1,0 +1,17 @@
+C:\Project\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.exe
+C:\Project\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.deps.json
+C:\Project\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.runtimeconfig.json
+C:\Project\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.dll
+C:\Project\kronometre\kronometre\bin\Debug\net8.0-windows\kronometre.pdb
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.Form1.resources
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.csproj.GenerateResource.cache
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.AssemblyInfoInputs.cache
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.AssemblyInfo.cs
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.csproj.CoreCompileInputs.cache
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.dll
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\refint\kronometre.dll
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.pdb
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.genruntimeconfig.cache
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\ref\kronometre.dll
+C:\Project\kronometre\kronometre\obj\Debug\net8.0-windows\kronometre.Properties.Resources.resources
